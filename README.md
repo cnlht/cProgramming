@@ -1,4 +1,4 @@
-# cProgramming
+# C Programming
 How to Programming
 使用C语言一步一步编程序
 一、数据存储和计算
